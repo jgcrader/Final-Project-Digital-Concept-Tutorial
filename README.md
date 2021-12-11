@@ -2,7 +2,7 @@
 ## Understanding the Binary System
 ### By Jonathan Crader
 
-This tutorial is a brief overview of the Binary numbering system - it will give an understanding of why the binary system exists, how to interpret it, and how it can be used to understand other numerical systems encountered in information technology.  
+This tutorial is a brief overview of the Binary numbering system - it will give an understanding of what the binary system is, how to interpret it, and how it can be used to understand other numerical systems encountered in information technology.  
 The target audience for this tutorial is first-time learners of numbering systems outside of the common decimal systems.
 
 #### What is "The Binary System"?
